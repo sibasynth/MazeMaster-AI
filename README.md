@@ -1,6 +1,6 @@
 # MazeMaster-AI: Reinforcement Learning for Navigating a Maze
 
-"## Summary"
+## Summary
 ## **Summary**
 This project focuses on building an AI agent that learns to navigate through a maze using reinforcement learning. The agent is rewarded based on its proximity to the goal, measured by the Manhattan distance, and penalized when it hits walls or revisits the same locations. The objective is to train the agent to find the optimal path to the goal. Building AI course project.
 
