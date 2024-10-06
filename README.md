@@ -22,6 +22,10 @@ The agent navigates through a labyrinth represented as a 2D array, where each ce
 ## **Steps to use the solution:**
 The agent starts from a given starting position and moves through the labyrinth. It receives rewards based on its Manhattan distance to the goal. The closer it gets to the goal, the higher the reward. Penalties are given for hitting walls or revisiting the same location. Once the agent finds the goal, its path is optimized based on accumulated rewards and penalties. The user can observe the agent's progress in real-time in the terminal.
 
+## **Visualization of the AI Agent in the Maze**
+![image of a cat](/MazeMasterAI.jpg)
+
+
 ## **Data sources and AI methods**
 The data for this project is generated in the form of a predefined labyrinth. The agent's decisions are based on an epsilon-greedy strategy, where it either explores new paths or exploits known paths. The reinforcement learning technique used is Q-learning, where each move updates the agent's Q-table based on the reward, a discount factor, and the Manhattan distance to the goal.
 
