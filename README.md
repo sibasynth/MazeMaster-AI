@@ -2,10 +2,6 @@
 
 ## Summary
 
-This project involves building an AI agent that learns to navigate through a maze using reinforcement learning. The agent is rewarded based on its Manhattan distance to the goal and penalized for hitting walls or revisiting locations. The objective is to optimize the agent's behavior to find the shortest path to the goal in the maze. Building AI course project.
-
-Building AI course project.
-
 This project focuses on building an AI agent that learns to navigate through a maze using reinforcement learning. The agent is rewarded based on its proximity to the goal, measured by the Manhattan distance, and penalized when it hits walls or revisits the same locations. The objective is to train the agent to find the optimal path to the goal. Building AI course project.
 
 ## **Background**
